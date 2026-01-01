@@ -13,9 +13,11 @@ This project performs Exploratory Data Analysis (EDA) on a bank loan dataset to 
 ---
 
 ## 📁 Repository Structure
-- `data/` : Contains the dataset used for analysis  
-- `notebooks/` : Jupyter notebook with complete exploratory data analysis  
-- `README.md` : Project documentation  
+
+- bank_loan_eda.ipynb : Jupyter notebook containing complete exploratory data analysis  
+- loan_dataset.csv   : Bank loan approval dataset used for analysis  
+- README.md          : Project documentation and overview  
+
 
 ---
 
